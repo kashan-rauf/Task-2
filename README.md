@@ -11,4 +11,4 @@ This is a simple HTML/CSS practice project.
 Just open `index.html` in your browser to view the project.
 
 ## Documentation
-For more details, visit [Project Docs](http://wrong-link.com/docs)  <!-- Broken link -->
+For more details, visit [Project Docs](http://example.com/docs)  <!-- Broken link -->
